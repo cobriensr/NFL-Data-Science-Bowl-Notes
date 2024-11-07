@@ -1,0 +1,322 @@
+{
+  "main": {
+    "id": "21c552c6104c798c",
+    "type": "split",
+    "children": [
+      {
+        "id": "08b901ec10cdd6cf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "33739937944f47b5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NFL Big Data Bowl 2025.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "NFL Big Data Bowl 2025"
+            }
+          },
+          {
+            "id": "c98f62e4fb21c65b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Focused Problems.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Focused Problems"
+            }
+          },
+          {
+            "id": "a0eac9ffa707ada3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Machine Learning Approaches for NFL Pre-snap Analysis.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Machine Learning Approaches for NFL Pre-snap Analysis"
+            }
+          },
+          {
+            "id": "2ea38585b2aaa8a0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Focused Problems.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Focused Problems"
+            }
+          },
+          {
+            "id": "d62f7bc4012bbc3a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "When to Use ML.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "When to Use ML"
+            }
+          },
+          {
+            "id": "8ccb445f46194366",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pre-snap Football Knowledge.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Pre-snap Football Knowledge"
+            }
+          },
+          {
+            "id": "47db12a3d28cbb8d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "When to Use ML.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "When to Use ML"
+            }
+          },
+          {
+            "id": "0754b67240ff8761",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Entity Relationship Diagram.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Entity Relationship Diagram"
+            }
+          },
+          {
+            "id": "d5e23944b3110395",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inferred and Derived Columns.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Inferred and Derived Columns"
+            }
+          },
+          {
+            "id": "2525df728f45278f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Additional Derived Datapoints Based on Football Knowledge.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Additional Derived Datapoints Based on Football Knowledge"
+            }
+          },
+          {
+            "id": "81d3dd9d87345d34",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ],
+        "currentTab": 10
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c0d91163f24f5604",
+    "type": "split",
+    "children": [
+      {
+        "id": "35e18bc975ee0769",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d3ca73cb7620b585",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "8bea123671d595c6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "37eff94f136281d6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 314.50390243530273
+  },
+  "right": {
+    "id": "d430a6e3fdf773bc",
+    "type": "split",
+    "children": [
+      {
+        "id": "6ea20f685889adae",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f99cb11911abdd71",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "b2aedb9ddaef695a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "5fd814ca1b136bc0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "bb367ba930839160",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "workspaces:Manage workspace layouts": false
+    }
+  },
+  "active": "81d3dd9d87345d34",
+  "lastOpenFiles": [
+    "When to Use ML.md",
+    "NFL Data Field Mapping to Pre-snap Concepts.md",
+    "Additional Derived Datapoints Based on Football Knowledge.md",
+    "Inferred and Derived Columns.md",
+    "Focused Problems.md",
+    "Cross Table Advanced Metrics.md",
+    "Entity Relationship Diagram.md",
+    "Pasted image 20241106212640.png",
+    "Pasted image 20241106213235.png",
+    "Pasted image 20241106220447.png",
+    "Pre-snap Football Knowledge.md",
+    "NFL Big Data Bowl 2025.md",
+    "Machine Learning Approaches for NFL Pre-snap Analysis.md",
+    "ML Foundational Approach.md",
+    "Artist Skill Tree.png",
+    "Foundational Topics.md",
+    "Inspiration.canvas",
+    "Pasted image 20240516130528.png",
+    "Untitled.canvas",
+    "Welcome.md"
+  ]
+}
